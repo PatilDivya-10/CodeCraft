@@ -1,1 +1,16 @@
-
+{
+    "java.home": "C:\\Program Files\\Java\\jdk-20",
+    "java.configuration.update.build": "automatic",
+    "java.import.gradle.enabled": false,
+    "java.import.maven.enabled": false,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.sourceCompatibility": "20",
+    "java.targetCompatibility": "20",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin"
+}
